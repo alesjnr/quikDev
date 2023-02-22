@@ -1,0 +1,15 @@
+{
+  "name": "quikdev-qa",
+  "version": "1.0.0",
+  "description": "Practical automation test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ales Jr",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
